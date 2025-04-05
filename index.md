@@ -4,7 +4,7 @@
 
 By using **Rembot**, you agree to the following terms:
 
-1. **Collection and processing of usage data** in accordance with the [Privacy Policy](./index.md).
+1. **Collection and processing of usage data** in accordance with the [Privacy Policy](https://therimo.github.io/rembot-policy/).
 2. **Logging of your Discord server activity**, only within the limits required for bot functionality.
 3. The bot may display **anonymous rankings, stats, and summaries** publicly (e.g. activity leaderboards).
 4. You may receive **system messages and bot notifications** unless disabled in your settings.
@@ -27,7 +27,7 @@ By using **Rembot**, you agree to the following terms:
 
 Korzystając z bota **Rembot**, użytkownik wyraża zgodę na:
 
-1. **Gromadzenie i przetwarzanie danych statystycznych** zgodnie z [Polityką Prywatności](./index.md).
+1. **Gromadzenie i przetwarzanie danych statystycznych** zgodnie z [Polityką Prywatności](https://therimo.github.io/rembot-policy/).
 2. **Zapis aktywności użytkownika na serwerze Discord**, wyłącznie w zakresie niezbędnym do działania funkcji bota.
 3. Możliwość **publicznego wyświetlania anonimowych rankingów, statystyk i podsumowań** (np. TOP aktywności).
 4. Otrzymywanie **wiadomości systemowych** i powiadomień związanych z funkcjonowaniem bota (jeśli użytkownik ich nie wyłączy).
